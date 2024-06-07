@@ -1,0 +1,22 @@
+{
+    "name": "reelz/warehouse",
+    "description": "warehouse",
+    "type": "project",
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "monolog/monolog": "^3.6",
+      "ext-readline": "*"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Reelz\\Warehouse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinaz12"
+        }
+    ],
+    "minimum-stability": "stable"
+}

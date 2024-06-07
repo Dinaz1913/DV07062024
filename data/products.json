@@ -1,0 +1,37 @@
+{
+    "ff568fa7-3a1a-402b-8dcf-b94aae9903b9": {
+        "id": "ff568fa7-3a1a-402b-8dcf-b94aae9903b9",
+        "name": "banana",
+        "dateOfCreation": "2024-06-06 15:21:59",
+        "lastUpdatedTime": "2024-06-06 15:26:05",
+        "amountOfUnits": 100
+    },
+    "25ade6f2-5847-46cc-93db-6955e27b206b": {
+        "id": "25ade6f2-5847-46cc-93db-6955e27b206b",
+        "name": "coffee",
+        "dateOfCreation": "2024-06-06 15:23:07",
+        "lastUpdatedTime": "2024-06-06 15:23:07",
+        "amountOfUnits": 100
+    },
+    "2177c0ef-3485-44f0-8ae1-c837ccc089d5": {
+        "id": "2177c0ef-3485-44f0-8ae1-c837ccc089d5",
+        "name": "rum",
+        "dateOfCreation": "2024-06-06 15:23:22",
+        "lastUpdatedTime": "2024-06-06 15:23:22",
+        "amountOfUnits": 20
+    },
+    "93fd248b-36ed-4af5-ba72-f270a1c36e8e": {
+        "id": "93fd248b-36ed-4af5-ba72-f270a1c36e8e",
+        "name": "cola",
+        "dateOfCreation": "2024-06-06 15:23:30",
+        "lastUpdatedTime": "2024-06-06 15:56:38",
+        "amountOfUnits": 2
+    },
+    "b179d603-dbee-4880-a1ce-cbf8df550ab6": {
+        "id": "b179d603-dbee-4880-a1ce-cbf8df550ab6",
+        "name": "nutz",
+        "dateOfCreation": "2024-06-06 17:20:53",
+        "lastUpdatedTime": "2024-06-06 17:20:53",
+        "amountOfUnits": 30
+    }
+}

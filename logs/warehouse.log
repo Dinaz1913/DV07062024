@@ -1,0 +1,7 @@
+[2024-06-06T15:21:59.740359+00:00] Warehouse.INFO: Action: add, Product ID: ff568fa7-3a1a-402b-8dcf-b94aae9903b9, Name: banana, Amount: 5, Timestamp: 2024-06-06 15:21:59 [] []
+[2024-06-06T15:23:07.651996+00:00] Warehouse.INFO: Action: add, Product ID: 25ade6f2-5847-46cc-93db-6955e27b206b, Name: coffee, Amount: 100, Timestamp: 2024-06-06 15:23:07 [] []
+[2024-06-06T15:23:22.630058+00:00] Warehouse.INFO: Action: add, Product ID: 2177c0ef-3485-44f0-8ae1-c837ccc089d5, Name: rum, Amount: 20, Timestamp: 2024-06-06 15:23:22 [] []
+[2024-06-06T15:23:30.473000+00:00] Warehouse.INFO: Action: add, Product ID: 93fd248b-36ed-4af5-ba72-f270a1c36e8e, Name: cola, Amount: 5, Timestamp: 2024-06-06 15:23:30 [] []
+[2024-06-06T15:26:05.597688+00:00] Warehouse.INFO: Action: update, Product ID: ff568fa7-3a1a-402b-8dcf-b94aae9903b9, Name: banana, Amount: 100, Timestamp: 2024-06-06 15:26:05 [] []
+[2024-06-06T15:56:38.882834+00:00] Warehouse.INFO: Action: withdraw, Product ID: 93fd248b-36ed-4af5-ba72-f270a1c36e8e, Name: cola, Amount: 2, Timestamp: 2024-06-06 15:56:38 [] []
+[2024-06-06T17:20:53.695984+00:00] Warehouse.INFO: Action: add, Product ID: b179d603-dbee-4880-a1ce-cbf8df550ab6, Name: nutz, Amount: 30, Timestamp: 2024-06-06 17:20:53 [] []
